@@ -1448,6 +1448,11 @@ General Styles - Owlcarousel
   background: rgba(2, 2, 2, 0.5);
 }
 
+.contact {
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
 /* FAQ Page Header */
 .faq-page-header:before {
   background: rgba(2, 2, 2, 0.15);
